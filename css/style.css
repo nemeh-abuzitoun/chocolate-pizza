@@ -1,0 +1,37 @@
+h1 {
+    font-family:'Yellowtail', cursive;;
+}
+h2{
+    font-size: xx-small;
+    font-style: normal;
+    font-weight: lighter;
+color: rgb(164, 180, 180);   
+
+}
+
+
+
+
+nav {
+    float: right;
+margin: 2px;
+}
+
+
+button {
+    margin: 10px;
+    padding: 10px;
+    float: right;
+}
+.C img {
+width:1600px;
+height: 1000px;
+}
+
+form {
+    background-image: url(https://github.com/waleedafifi90/amman-201d28/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true);
+}
+.G {
+
+    position: absolute;
+}
